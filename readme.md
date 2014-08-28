@@ -1,1 +1,3 @@
-Simple Vector manipulation techniques implemented in C.
+#Project Depricated. 
+Moved into C-Headers.
+
